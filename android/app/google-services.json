@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549470770854",
+    "project_id": "akusehat-d9706",
+    "storage_bucket": "akusehat-d9706.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549470770854:android:b4ed2ab25271f8d0d78667",
+        "android_client_info": {
+          "package_name": "com.example.final_project_orgalink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdNU1bvlBdOu_5Is77_Zr02PnrYql_9gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
