@@ -34,7 +34,7 @@ class _TambahJadwalScreenState extends State<TambahJadwalScreen> {
   final Set<String> _selectedIntervals = {'H-1 Hari'};
 
   final TextEditingController _faskesController = TextEditingController(
-    text: 'Puskesm Kebayoran Baru',
+    text: 'Puskesmas Kebayoran Baru',
   );
   final TextEditingController _notesController = TextEditingController(
     text: 'Bawa buku KIA kuning, pastikan suhu Rayyan normal & bawa biskuit favorit setelah suntik.',
